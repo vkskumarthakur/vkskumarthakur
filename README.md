@@ -3,7 +3,6 @@ Frontend Software Engineer with comprehensive front-end development expertise. P
 
 
 ## 🌐 Socials:
-## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vkskumarthakur) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vkskumarthakur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vkskumarthakur) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vkskumarthakur) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/vkskumarthakur) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vkskumarthakur) [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=portfolio&logoColor=white)](https://vkskumarthakur.vercel.app/)
 
 
